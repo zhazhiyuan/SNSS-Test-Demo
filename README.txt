@@ -11,7 +11,7 @@ When you run the  "SNSS_Demo.m" file, please first download the mode file:
 
 model file can be downloaded from:
 
-
-https://yunpan.360.cn/surl_yLcm8RB4ssD
+Link：https://pan.baidu.com/s/15yQZLQdllP9Tgy0DlTnh6Q 
+Password：1234 
 
 
